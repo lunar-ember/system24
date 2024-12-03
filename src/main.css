@@ -366,45 +366,45 @@ svg[class^=slider_] > rect[fill='white'] /* settings checkbuttons slider */ {
 	transition: color var(--border-transition);
 }
 [class^='sidebar_'] > [class^='container_']::after {
-	content: 'server';
+	content: 'Server';
 }
 .container_fc4f04::after {
-	content: 'channel';
+	content: 'Channel';
 	top: -11px;
 }
 [class^='chatContent_'] > [class^='messagesWrapper_']::after,
 .scroller_fb4810::after {
-	content: 'messages';
+	content: 'Messages';
 }
 [class^='panels_']::after {
-	content: 'user';
+	content: 'User';
 }
 [class^='form_'] [class^='channelTextArea_']::after {
-	content: 'input';
+	content: 'Input';
 }
 .guilds_a4d4d9::after {
-	content: 'nav';
+	content: 'Nav';
 }
 [class^='membersWrap_']::after {
-	content: 'members';
+	content: 'Members';
 }
 [class^='privateChannels_']::after {
-	content: 'dms';
+	content: 'DMs';
 }
 .container_a6d69a::after {
-	content: 'forum';
+	content: 'Forum';
 }
 [class^='content_'] > [class^='outer_']::after {
-	content: 'profile';
+	content: 'Profile';
 }
 [class^='searchResultsWrap_']::after {
-	content: 'search';
+	content: 'Search';
 }
 [class^='peopleColumn_']::after {
-	content: 'friends';
+	content: 'Friends';
 }
 [class^='nowPlayingColumn_']::after {
-	content: 'activity';
+	content: 'Activity';
 }
 
 /* fix hidden text labels */
