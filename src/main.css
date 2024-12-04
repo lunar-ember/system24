@@ -40,7 +40,7 @@
 	--border-transition: 0.2s ease;
 
 	--online-dot: var(--green);
-	--dnd-dot: var(--pink);
+	--dnd-dot: var(--red);
 	--idle-dot: var(--yellow);
 	--streaming-dot: var(--purple);
 
